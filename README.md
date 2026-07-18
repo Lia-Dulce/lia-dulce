@@ -3,9 +3,9 @@
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/XNSCODE/cookie
+$ git clone [https://github.com/XNSCODE/cookie](https://github.com/Lia-Dulce/lia-dulce)
 $ pip install requests
-$ cd cookie
+$ cd lia-dulce
 $ python convert.py
 ```
 <img src="https://github.com/XNSCODE/cookie/blob/main/image/file.jpg">
